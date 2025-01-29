@@ -1,4 +1,4 @@
-# Python Fundamentals: Seu Espaço para Scripts Python ⚔
+# Python Fundamentals: Seu Espaço para Scripts Python 🐍
 
 😀 Olá! Meu nome é Rodolfo, sou formado em Sistemas de Informação e apaixonado por programação!
  
