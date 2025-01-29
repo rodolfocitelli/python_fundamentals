@@ -2,4 +2,4 @@
 print("Hello World")
 
 nome = input('Digite seu nome: ')
-print(f'Hello {nome}', end= ' ...\n')
+print(f'Hello {nome}', end= ' ...')
