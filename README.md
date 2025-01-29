@@ -16,8 +16,9 @@ compartilhar seus códigos.
 ## Como usar 🕹
 
 1. Explore as pastas: navegue pelos arquivos e descubra os scripts Python.
-2. Copie e cole: use os códigos como base para seus estudos e projetos.
-3. Modifique e personalize: sinta-se à vontade para adaptar os scripts às 
+2. Confira os arquivos readme.md de cada pasta onde explicará o funcionamento do código
+3. Copie e cole: use os códigos como base para seus estudos e projetos.
+4. Modifique e personalize: sinta-se à vontade para adaptar os scripts às 
 suas necessidades.
 
 ## Por que este repositório 📎
