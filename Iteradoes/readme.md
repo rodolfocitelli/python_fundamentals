@@ -5,8 +5,8 @@ Isso é fundamental para percorrer coleções de dados, executar tarefas repetit
 ## Tipos de Iterações
 Existem dois tipos principais de iterações em Python:
 
-* for: Usado para iterar sobre uma sequência (como uma lista, tupla, string ou dicionário) ou qualquer outro objeto iterável.
-* while: Usado para repetir um bloco de código enquanto uma condição for verdadeira.
+* **`for`**: Usado para iterar sobre uma sequência (como uma lista, tupla, string ou dicionário) ou qualquer outro objeto iterável.
+* **`while`**: Usado para repetir um bloco de código enquanto uma condição for verdadeira.
 
 Seguem exemplos de código nos arquivos desta pasta.
 
